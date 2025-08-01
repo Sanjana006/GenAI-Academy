@@ -63,7 +63,7 @@ If you're curious about Generative AI or just starting your journey, I **highly 
 Have questions about prompt design, the badge, or how to start with Vertex AI?  
 Feel free to reach out — I’d love to connect and help however I can! 😊
 
-🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/your-profile)  
+🔗 [Connect with me on LinkedIn](linkedin.com/in/sanjana-nathani-26a42727b)  
 ✉️ Open to collaborations, discussions, and projects in AI and Machine Learning.
 
 ---
